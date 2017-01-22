@@ -1,0 +1,207 @@
+#header {
+	width: 100%;
+	height: 150px;
+	background: #23282D;
+	margin-top: 0px;
+	float: left;
+	clear: both;
+
+}
+
+#left_container {
+	width: 20%;
+	height: 1000px;
+	float: left;
+	background: #E8E8E8
+}
+
+#right_container {
+	width: 100%;
+	height: auto;
+	float: left;
+	background: white;
+}
+
+#headbar {
+	width: 100%;
+	height: 50px;
+	background: #86CB57;
+	
+	float: left;
+	clear: both;
+}
+
+a {
+	text-decoration: none;
+	color: inherit;
+}
+
+a:link {
+    color: inherit;
+    text-decoration: none;
+}
+
+a:visited {
+    color: inherit;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #dfdfdf;
+    text-decoration: none;
+}
+
+a:active {
+    color: inherit;
+    text-decoration: none;
+}
+
+#header_h4 {
+	color: white;
+	text-align: right;
+	padding-top:5px;
+	float:right;
+	clear: both;
+	margin-right: 50px;
+	margin-top: 20px;
+}
+
+#gallery_img {
+	background: lightyellow;
+	width: 90%;
+	margin-left: 5%;
+	margin-top: 3%;
+	height:900px;
+	
+}
+
+#gallery_row {
+	background: red;
+	width: 95%;
+	margin-left: 7%;
+}
+
+#a1 {
+	background: white;
+	width: 30%;
+	height: 180px;
+	margin-top: 3%;
+	float: left;
+	border: 1px solid black ;
+	box-shadow: 10px 10px 5px #888888;
+}
+
+#a2 {
+	background: white;
+	width: 30%;
+	height: 180px;
+	margin-top: 3%;
+	float: left;
+	border: 1px solid black ;
+	box-shadow: 10px 10px 5px #888888;
+}
+
+#a3 {
+	background: white;
+	width: 30%;
+	height: 180px;
+	margin-top: 3%;
+	float: left;
+	border: 1px solid black ;
+	box-shadow: 10px 10px 5px #888888;
+}
+
+.img {
+	margin-left: 1.5%;
+}
+
+#btn1 {
+	float: right;
+	margin-top: 5%;
+	margin-right: 8%;
+}
+
+#textarea {
+	margin-left: 12%;
+	margin-top: 5%;
+}
+
+#textarea_div {
+	background: lightyellow;
+	margin-top: 3%;
+	width: 90%;
+	height: 85%;
+	margin-left: 5%;
+}
+
+#textarea_div_galleryup {
+	background: lightyellow;
+	margin-top: 4%;
+	width: 60%;
+	height: 40%;
+	margin-left: 20%;
+	padding-left:5%;
+}
+
+#label {
+	
+	margin-right: 2%;
+	margin-top: 10%;
+}
+
+#btn_submit_galleryup {
+	margin-top: 10%;
+	margin-left: 43%;
+}
+
+#mail_div {
+	width: 100%;
+	margin-top: 2%;
+
+}
+
+#mail {
+	background: white;
+	overflow: visible;
+	margin-top: 3%;
+	margin-left: 20%;
+	margin-right: 15%;
+	width: 60%;
+	height: 80%;
+
+	
+	
+}
+
+#mail1 {
+	background: lightyellow;
+	padding-left: 3%;
+	padding-top: 2%;
+	height: 30%;
+	border: 1px solid black;
+	border-collapse: collapse;
+	box-shadow: 10px 10px 5px #888888;
+}
+
+#mail2 {
+	border: 1px solid black;
+	border-collapse: collapse;
+	background: white;
+	height: 60%;
+	padding-left: 15%;
+	padding-right: 15%;
+	padding-top: 5%;
+	box-shadow: 10px 10px 5px #888888;
+}
+
+table, td, th, tr {
+	border: 1px solid black;
+	border-collapse: collapse;
+	text-align: justify;
+}
+
+.mail_table {
+	border: 1px solid black;
+	border-collapse: collapse;
+	text-align: justify;
+}
