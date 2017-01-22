@@ -7,7 +7,7 @@ For Front End HTML5, Bootstrap3 Technologies are used.
 
 ##Requirements
 - [jQuery Library](https://angularjs.org/)
-- [Bootstrap JS and CSS Library](https://v4-alpha.getbootstrap.com/getting-started/download/)
+- [Bootstrap JS and CSS Libraries](https://v4-alpha.getbootstrap.com/getting-started/download/)
 
 ## Installation
 
@@ -42,8 +42,9 @@ For Front End HTML5, Bootstrap3 Technologies are used.
 ![Screenshot of Mailing System Snippets](https://cloud.githubusercontent.com/assets/15896579/22182479/d07bf380-e0cb-11e6-85af-a43a29caea93.jpg?raw=true "Screenshot of Mailing System's Code Snippets")
 <br/><br/><br/>
 
-![Screenshot of Mailing System Snippets](ttps://cloud.githubusercontent.com/assets/15896579/22182478/d07af688-e0cb-11e6-9e2f-8c949f19c3e6.jpg?raw=true "Screenshot of Mailing System's Code Snippets")
+![Screenshot of Mailing System Snippets](https://cloud.githubusercontent.com/assets/15896579/22182339/42175640-e0c9-11e6-8491-5e2e3a8d9e7e.jpg?raw=true "Screenshot of Mailing System's Code Snippets")
 <br/><br/><br/>
+
 
 ## License
 
